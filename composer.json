@@ -14,5 +14,7 @@
             "email": "krzciojj@miamioh.edu"
         }
     ],
-    "require": {}
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
+    }
 }
